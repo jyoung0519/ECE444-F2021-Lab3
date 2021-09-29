@@ -3,10 +3,10 @@
 # this   repo   is   a   clone   of https://github.com/nelaturuk/education_pathways.
 
 
-![Screenshot](Captrue1.png)
-![Screenshot](Captrue2.png)
-![Screenshot](Captrue3.png)
-![Screenshot](Captrue4.png)
+![Screenshot](activity_1.png)
+![Screenshot](activity_2.png)
+![Screenshot](activity_3.png)
+![Screenshot](activity_4.png)
 
 # ACTIVITY 5
 # The functional requirement I would like to see improving the system must show course information to the # student. This particular one I picked since when I search about a course, the information displayed are # outdated. Not having relevant or accurate data defeat the whole purpose of the application.
